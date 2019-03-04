@@ -1,0 +1,21 @@
+{
+  "name": "express-stream-sample",
+  "version": "1.0.0",
+  "description": "express streaming sample",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib"
+  },
+  "keywords": [],
+  "author": "Joel Chen",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jchip/express-stream-sample.git"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "munchy": "^1.0.4"
+  },
+  "private": true
+}
